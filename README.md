@@ -1,2 +1,3 @@
 # rammer_test
-yes
+example 
+just an example read.me is not needed
